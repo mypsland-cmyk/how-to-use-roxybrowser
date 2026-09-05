@@ -81,4 +81,4 @@ A review that only lists wins is an ad. The honest trade-offs:
 
 RoxyBrowser's pitch is simple: current-kernel fingerprint isolation, workflow features that matter at scale, audited security, and the only genuinely free on-ramp in the category. For most people reading this — multi-account managers who haven't picked a tool yet — the [free plan](https://mrait.ca/go/freebrowser) makes it the rational first test.
 
-**Related guides:** [RoxyBrowser pricing explained](./roxybrowser-pricing-and-free-plan.md) · [10-minute setup tutorial](./free-antidetect-browser-setup.md) · [RoxyBrowser vs the alternatives](./best-antidetect-browsers-2026.md)
+**Related guides:** [RoxyBrowser pricing explained](./roxybrowser-pricing-and-free-plan.md) · [How to Use RoxyBrowser (setup tutorial)](./how-to-use-roxybrowser.md) · [RoxyBrowser vs the alternatives](./best-antidetect-browsers-2026.md)
