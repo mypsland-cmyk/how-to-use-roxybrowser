@@ -1,7 +1,7 @@
 # What Is an Antidetect Browser? A Plain-English Guide (2026)
 
-> **Meta title:** What Is an Antidetect Browser? Plain-English Guide (2026)
-> **Meta description:** Antidetect browsers give every account its own isolated, fingerprint-safe environment. Here's how they work, who actually needs one, and how to try one free.
+> **Meta title:** What Is an Antidetect Browser? RoxyBrowser Guide (2026)
+> **Meta description:** Antidetect browsers give every account its own isolated, fingerprint-safe environment. Here's how they work, who needs one, and how RoxyBrowser's free plan gets you started.
 > **Suggested slug:** `what-is-an-antidetect-browser`
 
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
@@ -10,7 +10,7 @@
 
 If you've ever managed more than one online account — a personal profile and a work profile, two marketplace stores, a client's Instagram next to your own — you've probably been burned by platforms treating "same browser" as "same person."
 
-An **antidetect browser** is the tool built to solve that. In this guide I'll explain what one actually is, what it does and doesn't do, and who genuinely benefits from it.
+An **antidetect browser** is the tool built to solve that. In this guide I'll explain what one actually is, what it does and doesn't do, and who genuinely benefits from it — using [RoxyBrowser](https://mrait.ca/go/freebrowser), one of the category's most popular options, as the working example throughout.
 
 ## The short version
 
@@ -79,4 +79,4 @@ Yes. An antidetect browser is a tool — the same category as a VPN or a privacy
 
 The fastest way to understand an antidetect browser is to open one. [RoxyBrowser's free plan](https://mrait.ca/go/freebrowser) gives you 2 permanent profiles, no credit card — enough to isolate your work and personal accounts today and see how the isolation feels in practice.
 
-*Next in this series: how to set up your first isolated profiles in about 10 minutes, and how the top antidetect browsers compare in 2026.*
+*Next in this series: the in-depth [RoxyBrowser review](./roxybrowser-review-2026.md), the [RoxyBrowser pricing breakdown](./roxybrowser-pricing-and-free-plan.md), and the [10-minute RoxyBrowser setup guide](./free-antidetect-browser-setup.md).*
