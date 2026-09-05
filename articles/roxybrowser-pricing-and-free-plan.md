@@ -67,7 +67,7 @@ That's how it's offered: 2 profiles, no card, no expiry. It's the reason it's ou
 No. [Signup](https://mrait.ca/go/freebrowser) doesn't ask for one.
 
 **Can I run two different accounts on the free plan safely?**
-Yes — that's exactly what the two profiles are for. Follow the [10-minute setup guide](./free-antidetect-browser-setup.md): one account per profile, one IP per profile, consistent fingerprints.
+Yes — that's exactly what the two profiles are for. Follow the [How to Use RoxyBrowser guide](./how-to-use-roxybrowser.md): one account per profile, one IP per profile, consistent fingerprints.
 
 **What do I pay for first when I upgrade?**
 Profile count. That's the constraint that bites first in almost every multi-account workflow.
@@ -76,4 +76,4 @@ Profile count. That's the constraint that bites first in almost every multi-acco
 
 RoxyBrowser's pricing structure lets you defer the buying decision until growth makes it for you: start free, learn the tool, and pay only when profile count, team access, or automation volume actually demands it. [Start on the free plan](https://mrait.ca/go/freebrowser) and you'll know within a week which side of that line you're on.
 
-**Related guides:** [RoxyBrowser review](./roxybrowser-review-2026.md) · [10-minute setup tutorial](./free-antidetect-browser-setup.md) · [What is an antidetect browser?](./what-is-an-antidetect-browser.md)
+**Related guides:** [RoxyBrowser review](./roxybrowser-review-2026.md) · [How to Use RoxyBrowser](./how-to-use-roxybrowser.md) · [What is an antidetect browser?](./what-is-an-antidetect-browser.md)
