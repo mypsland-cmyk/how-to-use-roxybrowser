@@ -1,9 +1,5 @@
 # Antidetect Browser Course, Step 3: How to Use an Antidetect Browser
 
-> **Meta title:** How to Use an Antidetect Browser: Profiles, Fingerprints, Proxies (Step 3)
-> **Meta description:** Antidetect Browser Course Step 3 — from concept to practice: creating profiles, controlling fingerprints, attaching proxies, and running daily multi-account work the right way.
-> **Suggested slug:** `how-to-use-an-antidetect-browser`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 **📺 Watch the video version:**
