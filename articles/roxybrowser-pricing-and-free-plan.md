@@ -1,9 +1,5 @@
 # RoxyBrowser Pricing (2026): The Free Plan, Paid Tiers, and What You Actually Get
 
-> **Meta title:** RoxyBrowser Pricing (2026): Free Plan & Paid Tiers Explained
-> **Meta description:** How RoxyBrowser pricing works — what the permanent free plan includes, when you actually need a paid tier, and how it compares to category norms.
-> **Suggested slug:** `roxybrowser-pricing`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 ---
