@@ -76,4 +76,4 @@ Honestly, with a permanent free tier on RoxyBrowser and free tiers elsewhere, th
 
 ## Next step
 
-[Set up RoxyBrowser's free plan](https://mrait.ca/go/freebrowser), create two profiles, and point them at your two most important accounts. For a closer look at the tool, read the full [RoxyBrowser review](./roxybrowser-review-2026.md) and the [RoxyBrowser pricing breakdown](./roxybrowser-pricing-and-free-plan.md) — and for the why behind it all, start with [What Is an Antidetect Browser?](./what-is-an-antidetect-browser.md)
+[Set up RoxyBrowser's free plan](https://mrait.ca/go/freebrowser), create two profiles, and point them at your two most important accounts. For a closer look at the tool, read the full [RoxyBrowser review](./roxybrowser-review-2026.md) and the [RoxyBrowser pricing breakdown](./roxybrowser-pricing-and-free-plan.md) — for the how-to, follow [How to Use RoxyBrowser](./how-to-use-roxybrowser.md), and for the why behind it all, start with [What Is an Antidetect Browser?](./what-is-an-antidetect-browser.md)
