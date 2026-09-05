@@ -1,9 +1,5 @@
 # What Is an Antidetect Browser? A Plain-English Guide (2026)
 
-> **Meta title:** What Is an Antidetect Browser? RoxyBrowser Guide (2026)
-> **Meta description:** Antidetect browsers give every account its own isolated, fingerprint-safe environment. Here's how they work, who needs one, and how RoxyBrowser's free plan gets you started.
-> **Suggested slug:** `what-is-an-antidetect-browser`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 ---
