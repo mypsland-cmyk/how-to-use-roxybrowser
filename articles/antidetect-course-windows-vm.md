@@ -1,9 +1,5 @@
 # Antidetect Browser Course, Step 4: Set Up a Windows 10/11 VM for Your Antidetect Browser
 
-> **Meta title:** Windows 10/11 VM for an Antidetect Browser: VirtualBox, VMware or Cloud (Step 4)
-> **Meta description:** Antidetect Browser Course Step 4 — build a Windows 10/11 virtual machine (VirtualBox, VMware, or cloud) to run your antidetect browser, with sensible RAM/CPU/disk settings and proxy hookup.
-> **Suggested slug:** `antidetect-browser-course-windows-vm`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 **📺 Watch the video version:**
