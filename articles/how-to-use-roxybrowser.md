@@ -1,9 +1,5 @@
 # How to Use RoxyBrowser: Run Multiple Accounts Safely with a Free Antidetect Browser (10-Minute Setup)
 
-> **Meta title:** How to Use RoxyBrowser: 10-Minute Multi-Account Setup (2026)
-> **Meta description:** How to use RoxyBrowser — step-by-step tutorial to set up isolated, fingerprint-unique browser profiles for your accounts in about 10 minutes, on the permanent free plan.
-> **Suggested slug:** `how-to-use-roxybrowser`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 **Related:** [RoxyBrowser review](./roxybrowser-review-2026.md) · [RoxyBrowser pricing explained](./roxybrowser-pricing-and-free-plan.md) · [What is an antidetect browser?](./what-is-an-antidetect-browser.md)
