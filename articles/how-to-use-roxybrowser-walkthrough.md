@@ -1,9 +1,5 @@
 # How to Use RoxyBrowser: Complete Walkthrough (Profiles, Proxies, Sync & API)
 
-> **Meta title:** How to Use RoxyBrowser: Complete Walkthrough (2026)
-> **Meta description:** The complete RoxyBrowser walkthrough — installation, dashboard, profiles, proxy setup, extensions, synchronizer, team collaboration, and the API.
-> **Suggested slug:** `how-to-use-roxybrowser-walkthrough`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 **📺 Watch the video version:**
