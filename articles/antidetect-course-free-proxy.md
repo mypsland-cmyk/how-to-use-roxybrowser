@@ -1,9 +1,5 @@
 # Antidetect Browser Course, Step 1: How to Get a Free Proxy (and Test It Properly)
 
-> **Meta title:** How to Get a Free Proxy for an Antidetect Browser (Step 1)
-> **Meta description:** Antidetect Browser Course Step 1 — what proxies do in profile-based workflows, how to get started with a free trial, and how to test reliability, speed, and geo-targeting.
-> **Suggested slug:** `antidetect-browser-course-free-proxy`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 **📺 Watch the video version:**
