@@ -1,9 +1,5 @@
 # Antidetect Browser Course, Step 6: Create a Convincing iPhone Device Profile (and Validate It)
 
-> **Meta title:** Create an iPhone Device Profile in an Antidetect Browser (Step 6)
-> **Meta description:** Antidetect Browser Course Step 6 — build a believable iPhone-style device profile: user agent, viewport, WebGL, time zone, proxy alignment, and how to validate it with fingerprint test pages.
-> **Suggested slug:** `antidetect-browser-course-iphone-device`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 **📺 Watch the video version:**
