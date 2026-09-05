@@ -79,4 +79,4 @@ Yes. An antidetect browser is a tool — the same category as a VPN or a privacy
 
 The fastest way to understand an antidetect browser is to open one. [RoxyBrowser's free plan](https://mrait.ca/go/freebrowser) gives you 2 permanent profiles, no credit card — enough to isolate your work and personal accounts today and see how the isolation feels in practice.
 
-*Next in this series: the in-depth [RoxyBrowser review](./roxybrowser-review-2026.md), the [RoxyBrowser pricing breakdown](./roxybrowser-pricing-and-free-plan.md), and the [10-minute RoxyBrowser setup guide](./free-antidetect-browser-setup.md).*
+*Next in this series: the in-depth [RoxyBrowser review](./roxybrowser-review-2026.md), the [RoxyBrowser pricing breakdown](./roxybrowser-pricing-and-free-plan.md), and the step-by-step [How to Use RoxyBrowser guide](./how-to-use-roxybrowser.md).*
