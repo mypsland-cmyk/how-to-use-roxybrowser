@@ -1,9 +1,5 @@
 # RoxyBrowser Review (2026): Features, Free Plan, and Who It's Really For
 
-> **Meta title:** RoxyBrowser Review (2026): Features, Free Plan & Verdict
-> **Meta description:** An in-depth RoxyBrowser review — fingerprint engine, RoxyIP proxies, Window Sync, Team Space, the permanent free plan, and where it falls short.
-> **Suggested slug:** `roxybrowser-review`
-
 *This post contains affiliate links. If you sign up through them, I may earn a commission at no extra cost to you.*
 
 ---
