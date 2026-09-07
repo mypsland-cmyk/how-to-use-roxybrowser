@@ -1,6 +1,6 @@
 # How to Use RoxyBrowser
 
-The complete guide to **using RoxyBrowser** — step-by-step tutorials, hands-on review, pricing breakdown, comparisons, and a free antidetect browser course. Everything you need to run multiple accounts safely, built for marketers, agencies, and e-commerce sellers.
+The complete guide to **using RoxyBrowser** — step-by-step tutorials, hands-on review, pricing breakdown, comparisons, a free antidetect browser course, and deep dives on every feature. Built for marketers, agencies, and e-commerce sellers running multiple accounts.
 
 ## 🚀 Start here
 
@@ -32,6 +32,15 @@ My complete video course, now in article form — each guide embeds the original
 - **Step 4 — [Set Up a Windows 10/11 VM for Your Antidetect Browser](./articles/antidetect-course-windows-vm.md)**
 - **Step 6 — [Create a Convincing iPhone Device Profile (and Validate It)](./articles/antidetect-course-iphone-device.md)**
 - **Bonus — [Why RoxyBrowser Is My Top Pick in 2026](./articles/why-roxybrowser-is-my-top-pick.md)**
+
+## 🧠 Deep dives & use cases
+
+- **[What Is Browser Fingerprinting? (And How to Test Yours)](./articles/what-is-browser-fingerprinting.md)** — the mechanics behind it all, with a self-test
+- **[Is RoxyBrowser Safe? Security, Audits & What Your Data Actually Touches](./articles/is-roxybrowser-safe.md)** — SOC 2, ISO 27001, and the risks no vendor can remove
+- **[RoxyBrowser Alternatives: GoLogin, AdsPower, Multilogin, Dolphin Anty & More](./articles/roxybrowser-alternatives.md)** — where each competitor genuinely wins
+- **[Window Sync Explained: Do One Action, Run It Across Every Profile](./articles/window-sync-explained.md)** — the synchronizer, used safely
+- **[How to Manage Multiple Instagram Accounts for Clients](./articles/manage-multiple-instagram-accounts.md)** — the agency architecture that prevents linkage
+- **[7 Signs You've Outgrown Chrome Profiles for Multi-Account Work](./articles/outgrown-chrome-profiles.md)** — the symptoms, before they cost you accounts
 
 ## 👉 Try RoxyBrowser free
 
