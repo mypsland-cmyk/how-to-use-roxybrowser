@@ -17,6 +17,8 @@ An antidetect browser fixes that with isolated, fingerprint-unique profiles. The
 - **Dolphin Anty** — affiliate-marketing focused
 - **Hidemyacc** — budget-friendly newcomer
 
+*Want the one-on-one breakdowns? [RoxyBrowser vs GoLogin](./roxybrowser-vs-gologin.md) · [RoxyBrowser vs AdsPower](./roxybrowser-vs-adspower.md) · [RoxyBrowser vs Multilogin](./roxybrowser-vs-multilogin.md) · [RoxyBrowser vs Dolphin Anty](./roxybrowser-vs-dolphin-anty.md)*
+
 ## Quick comparison
 
 Free-tier details in this space change often, so treat the table as directional and confirm on each vendor's pricing page.
