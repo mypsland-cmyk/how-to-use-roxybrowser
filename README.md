@@ -33,13 +33,25 @@ My complete video course, now in article form — each guide embeds the original
 - **Step 6 — [Create a Convincing iPhone Device Profile (and Validate It)](./articles/antidetect-course-iphone-device.md)**
 - **Bonus — [Why RoxyBrowser Is My Top Pick in 2026](./articles/why-roxybrowser-is-my-top-pick.md)**
 
+## ⚔️ Head-to-head comparisons
+
+- **[RoxyBrowser vs GoLogin](./articles/roxybrowser-vs-gologin.md)** — web access vs audited all-rounder
+- **[RoxyBrowser vs AdsPower](./articles/roxybrowser-vs-adspower.md)** — RPA powerhouse or balanced workstation?
+- **[RoxyBrowser vs Multilogin](./articles/roxybrowser-vs-multilogin.md)** — value pick vs the enterprise standard
+- **[RoxyBrowser vs Dolphin Anty](./articles/roxybrowser-vs-dolphin-anty.md)** — the media buyer's dilemma
+- **[All four + Hidemyacc in one table](./articles/best-antidetect-browsers-2026.md)**
+
 ## 🧠 Deep dives & use cases
 
 - **[What Is Browser Fingerprinting? (And How to Test Yours)](./articles/what-is-browser-fingerprinting.md)** — the mechanics behind it all, with a self-test
 - **[Is RoxyBrowser Safe? Security, Audits & What Your Data Actually Touches](./articles/is-roxybrowser-safe.md)** — SOC 2, ISO 27001, and the risks no vendor can remove
 - **[RoxyBrowser Alternatives: GoLogin, AdsPower, Multilogin, Dolphin Anty & More](./articles/roxybrowser-alternatives.md)** — where each competitor genuinely wins
+- **[RoxyBrowser Download & Install Guide](./articles/roxybrowser-download.md)** — official source, per-OS steps, first-run setup
+- **[The Best Free Antidetect Browser in 2026](./articles/best-free-antidetect-browser.md)** — which free plans are real
 - **[Window Sync Explained: Do One Action, Run It Across Every Profile](./articles/window-sync-explained.md)** — the synchronizer, used safely
 - **[How to Manage Multiple Instagram Accounts for Clients](./articles/manage-multiple-instagram-accounts.md)** — the agency architecture that prevents linkage
+- **[How to Manage Multiple TikTok Accounts Without Linking](./articles/multiple-tiktok-accounts.md)** — clean multi-account setup for brands & agencies
+- **[How E-commerce Sellers Run Multiple Storefronts](./articles/manage-multiple-storefronts.md)** — one storefront, one profile, one IP
 - **[7 Signs You've Outgrown Chrome Profiles for Multi-Account Work](./articles/outgrown-chrome-profiles.md)** — the symptoms, before they cost you accounts
 
 ## 👉 Try RoxyBrowser free
