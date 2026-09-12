@@ -49,4 +49,6 @@ Ignore feature lists for a moment. Your decision:
 
 The category has matured — there are no terrible tools left among these six. There are only trade-offs, and the free tier is the cheapest way to discover which trade-offs apply to you.
 
+**One-on-one deep dives:** [RoxyBrowser vs GoLogin](./roxybrowser-vs-gologin.md) · [RoxyBrowser vs AdsPower](./roxybrowser-vs-adspower.md) · [RoxyBrowser vs Multilogin](./roxybrowser-vs-multilogin.md) · [RoxyBrowser vs Dolphin Anty](./roxybrowser-vs-dolphin-anty.md)
+
 **Related:** [RoxyBrowser vs GoLogin vs AdsPower vs Multilogin — full comparison](./best-antidetect-browsers-2026.md) · [RoxyBrowser review](./roxybrowser-review-2026.md) · [Is RoxyBrowser safe?](./is-roxybrowser-safe.md)
